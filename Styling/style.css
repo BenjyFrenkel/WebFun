@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+}
+#top{
+    background-color: black;
+    color:white;
+    padding-left: 20px;
+}
+#cloud{
+    color: aqua;
+}
+#middle{
+    background-color: darkorchid;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+#bottom{
+    background-color: dodgerblue;
+    text-decoration: underline;
+    text-align: right;
+    padding-right: 20px;
+}

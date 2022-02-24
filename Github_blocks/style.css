@@ -1,0 +1,38 @@
+img{
+    height: 200px;
+}
+.rows{
+    height: 250px;
+    width:1000px;
+    background-color: cadetblue;
+    display:flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding-top: 30px;
+    margin:auto;
+}
+#rowTwo{
+    height: 250px;
+    width:1000px;
+    background-color: palevioletred;
+    display:flex;
+    justify-content: space-around;
+    padding-top: 25px;
+    margin-top: 20px;
+    margin:auto;
+}
+.gold{
+    background-color:goldenrod;
+}
+#header{
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    color: grey;
+}
+#footer{
+    display: flex;
+    justify-content: center;
+    vertical-align: bottom;
+    font-size: larger;
+}
