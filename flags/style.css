@@ -8,9 +8,9 @@
     background-color: red;
     display: flex;
 }
-/* .top .bottom{
+/* /* .top .bottom{
     display:flex;
-}
+} */
 .q1 .q3{
     width: 300px;
 }
@@ -23,4 +23,4 @@
 }
 .bottom{
     vertical-align: bottom;
-} */
+}
