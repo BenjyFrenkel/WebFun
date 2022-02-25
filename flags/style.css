@@ -1,0 +1,26 @@
+#container{
+    width: 1000px;
+    height: 600px;
+    background-color: black;
+}
+.q1, .q2, .q3, .q4{
+    height:250px;
+    background-color: red;
+    display: flex;
+}
+/* .top .bottom{
+    display:flex;
+}
+.q1 .q3{
+    width: 300px;
+}
+.q2 .q4{
+    width: 600px;
+}
+.top{
+    vertical-align: top;
+
+}
+.bottom{
+    vertical-align: bottom;
+} */
